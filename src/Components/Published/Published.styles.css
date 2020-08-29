@@ -1,0 +1,23 @@
+.published {
+  background-color: #ababab;
+  margin-top: 30px;
+  padding: 10px;
+}
+.all-posts-block {
+  padding: 10px;
+  border: 1px solid;
+  margin: 10px;
+  background: white;
+}
+.post-title {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: capitalize;
+  padding-bottom: 5px;
+}
+
+.post-body {
+  font-size: 18px;
+  text-align: justify;
+}
